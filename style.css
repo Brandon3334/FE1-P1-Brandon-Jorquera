@@ -1,0 +1,79 @@
+/* Estilo general */
+body {
+    font-family: 'Roboto', sans-serif; /* Tipografía más moderna */
+    margin: 0;
+    padding: 0;
+    background-color: #32CD32; /* Fondo verde lima */
+    color: #000; /* Texto negro */
+    line-height: 1.6;
+}
+
+/* Encabezado */
+header {
+    background-color: #000; /* Fondo negro */
+    color: #32CD32; /* Texto verde lima */
+    padding: 30px 20px;
+    text-align: center;
+    border-bottom: 5px solid #32CD32;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+/* Sección principal */
+section {
+    padding: 40px 20px;
+    max-width: 1200px;
+    margin: 0 auto; /* Centra el contenido */
+    background-color: #fff; /* Fondo blanco para destacar */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Resaltado */
+.highlight {
+    background-color: #f0fff0; /* Fondo verde claro */
+    padding: 20px;
+    border-left: 8px solid #32CD32;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+/* Listas */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+/* Pie de página */
+footer {
+    background-color: #000; /* Fondo negro */
+    color: #32CD32; /* Texto verde lima */
+    text-align: center;
+    padding: 15px 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    border-top: 5px solid #32CD32;
+}
+
+/* Enlaces (si los agregas en el futuro) */
+a {
+    color: #32CD32;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
