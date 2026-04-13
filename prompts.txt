@@ -1,0 +1,22 @@
+Primer prompt:crea una pagina web básica para una organización de evento tecnologico 
+Etapa:Temprana ya que es la primera parte al crear la pagina web simple estatica sin tener mejoras aun
+Propósito:
+Evaluación Resultado:Util
+
+Segundo Prompt: Implementar mejoras en el diseño visual que sea mas atractivo con estilos css cambiando los colores de fondo que sean verde lima y negro que de igual forma tenga espaciado y mejorar la tipografia de las letras mas elavorados y que haya una mejor distribución del contenido
+Etapa:Temprana ya que seguimos solo trabajando con el diseño aun no es una mejora significativa
+Proposito: aqui ya estamos aplicando lo que seria mejora visual para la pagina y sea mas atractiva a la vista y el proposito seria para llamar mas la atencion en lo que seria visualmente
+Evaluacion:Util
+
+Tercer Prompt:incorporar información personalizada esta agregando nuevas secciones a la pagina que en total serian 5
+actividades del evento,
+Etapa:Media
+Proposito:
+Evaluacion: Parcial ya que no es una mejora en si sino solo agregar una parte de informacion
+
+Cuarto Prompt: Adaptacion para dispositivos moviles ya que tiene que funcionar para pantallas pequeñas que el contenido se vea de manera correcta y que no tenga problemas al momento de visualizar la informacion
+Etapa:Media
+Proposito: Se aplican mejoras para dispositivos moviles para que funcione correctamente sin errores 
+Evaluacion Util ya que le da importancia a la pagina web sea visitada desde dispositivos moviles
+
+Quiento Promp:
