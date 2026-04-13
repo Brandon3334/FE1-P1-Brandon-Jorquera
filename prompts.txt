@@ -19,4 +19,6 @@ Etapa:Media
 Proposito: Se aplican mejoras para dispositivos moviles para que funcione correctamente sin errores 
 Evaluacion Util ya que le da importancia a la pagina web sea visitada desde dispositivos moviles
 
-Quiento Promp:
+Quiento Promp: incorporar una sección de actividades destacadas utilizando tarjetas
+
+
